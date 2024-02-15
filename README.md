@@ -3,7 +3,13 @@ have you ever wanted Sol Badguy in GG2 Overture to be pink? No? Too bad.
 
 # Installation
 Sol: Replace TD220.PKM in the data folder in the root of GG2 with TD220.PKM in this repo. You can also replace TD221 and others to make palettes other than red be pink.  
-Servants: Replace TD120.PKM in the data folder in the root of GG2 with TD120.PKM in this repo. You can also replace TD221 and others to make palettes other than red be pink.
+Servants: Replace TD120.PKM in the data folder in the root of GG2 with TD120.PKM in this repo. You can also replace TD221 and others to make palettes other than red be pink.  
+Minimap: Replace TD000.PKM in the data folder in the root of GG2 with TD000.PKM in this repo. You can also replace TD001 and others to make palettes other than red be pink.  
+Loading screen: Replace OUTGAMEBATTLEINTRO.PKM in the data/outgame folder in the root of GG2 with OUTGAMEBATTLEINTRO.PKM in this repo.  
+Character Select: Replace OUTGAME.PKM in the data/outgame folder in the root of GG2 with OUTGAME.PKM in this repo.  
+Results: Replace OUTGAMERESULT.PKM in the data/outgame folder in the root of GG2 with OUTGAMERESULT.PKM in this repo.  
+Master Ghost HP and Sol icon ingame: Replace COCKPIT.PKM in the data/cockpit folder in the root of GG2 with COCKPIT.PKM in this repo.  
+do all steps for full installation
 
 # Credits
 me, jillscrungus on GitLab (https://gitlab.com/backyardtools/overture/)
