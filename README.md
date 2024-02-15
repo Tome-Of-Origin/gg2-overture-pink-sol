@@ -9,3 +9,8 @@ me, jillscrungus on GitLab (https://gitlab.com/backyardtools/overture/)
 
 # How this was done
 Hue -20 with the Hue/Saturation parameter in GIMP for everything but Sol's skin, then packed into a PKM with ```python ~/prototypes/unpkm.py -vf -t 3 TD220/ -o TD220.PKM``` on all textures within TD220.PKM
+
+# Screenshots
+![image](https://github.com/youmukonpaku1337/gg2-overture-pink-sol/assets/50289495/e27a17eb-4418-4183-a087-587f82f3cc61)
+![image](https://github.com/youmukonpaku1337/gg2-overture-pink-sol/assets/50289495/e6418810-ce46-47e2-a034-72cb1355baeb)
+![image](https://github.com/youmukonpaku1337/gg2-overture-pink-sol/assets/50289495/edcc24f1-9451-40e5-8975-31b3303c821c)
