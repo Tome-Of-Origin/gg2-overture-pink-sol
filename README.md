@@ -12,5 +12,5 @@ Hue -20 with the Hue/Saturation parameter in GIMP for everything but Sol's skin,
 
 # Screenshots
 ![image](https://github.com/youmukonpaku1337/gg2-overture-pink-sol/assets/50289495/e27a17eb-4418-4183-a087-587f82f3cc61)
-![image](https://github.com/youmukonpaku1337/gg2-overture-pink-sol/assets/50289495/e6418810-ce46-47e2-a034-72cb1355baeb)
+![image](https://github.com/youmukonpaku1337/gg2-overture-pink-sol/assets/50289495/0ef66e95-d2c1-4b62-b0df-7ddbb5daf59e)
 ![image](https://github.com/youmukonpaku1337/gg2-overture-pink-sol/assets/50289495/edcc24f1-9451-40e5-8975-31b3303c821c)
